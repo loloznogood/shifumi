@@ -1,7 +1,9 @@
-#1 composer install
+#1 Name : Loïc Weber, Aurélien Karmann
 
-#2 run game
+#2 composer install
+
+#3 run game
 php main.php
 
-#3 run phpunit
+#4 run phpunit
 ./vendor/bin/phpunit tests/test.php
